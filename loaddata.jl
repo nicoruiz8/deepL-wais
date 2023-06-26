@@ -1,5 +1,5 @@
 ## Function that reads a .jld2 file containing Yelmo data for our neural network.
-## Yelmo data is decribed in the README.
+## Yelmo data is decribed in the README file.
 ## Author: Nicolás Ruiz Lafuente
 
 using JLD2
