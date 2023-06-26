@@ -1,4 +1,4 @@
-## Function that computes the accuracy (F-score) of a deep neural network for a classification problem.
+## Function that computes the accuracy (F-score) of a deep neural network in a classification problem.
 ## Author: Nicolás Ruiz Lafuente
 
 function fscore(what::String, m, x, y; ϵ = 1.0f-3)
