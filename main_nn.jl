@@ -4,7 +4,7 @@
 ## Author: Nicolás Ruiz Lafuente
 ## Special thanks to Jan-Christophe Swierczek-Jereczek for his invaluable help and expertise in the matter.
 
-## This script just builds and trains a custom neural network. For testing results check the README.
+## This script just builds and trains a custom neural network. For testing results check the README file.
 
 using Flux, CairoMakie, ProgressBars, Random, BSON
 
