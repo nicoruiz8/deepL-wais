@@ -4,7 +4,7 @@
 ## Author: Nicolás Ruiz Lafuente
 ## Special thanks to Jan-Christophe Swierczek-Jereczek for his invaluable help and expertise in the matter.
 
-## This script tests the custom neural network built for the work. For building and training processes check the README.
+## This script tests the custom neural network built for the work. For building and training processes check the README file.
 
 using Flux, CairoMakie, BSON
 
