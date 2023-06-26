@@ -2,8 +2,8 @@
 ## Author: Nicolás Ruiz Lafuente
 
 ## The accepted types of normalization are:
-# Min-max normalization: set each variable to range between -1 and 1
-# Standarization: set each variable to mean 0 and variance 1
+# Min-max normalization: set each variable to range between -1 and 1.
+# Standarization: set each variable to mean 0 and variance 1.
 
 using Statistics
 
